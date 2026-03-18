@@ -281,6 +281,3 @@ We ensure **low false positives**
 
 ---
 
-## 🔥 Final One-Line Defense Pitch
-
-**“GigShield uses multi-dimensional truth validation, behavioral AI, and graph-based fraud detection to distinguish genuine income loss from coordinated fraud—without penalizing honest workers.”**
