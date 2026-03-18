@@ -248,3 +248,38 @@ We ensure **low false positives**
 ---
 
 ## 🔄 9. End-to-End Decision Flow
+[Disruption Detected]
+↓
+[Check Environmental Truth]
+↓
+[Validate Spatial Presence]
+↓
+[Evaluate Economic Impact]
+↓
+[Behavior Analysis]
+↓
+[Peer Comparison]
+↓
+[Fraud Graph Check]
+↓
+[Risk Score Calculation]
+↓
+
+┌───────────────┬───────────────┬───────────────┐
+│ Approve │ Delay │ Flag Fraud │
+└───────────────┴───────────────┴───────────────┘
+
+---
+
+## 🧠 Key Differentiator
+
+👉 **We don’t detect fraud at the user level — we detect it at the system level**
+
+- Individual anomalies → tolerated  
+- Coordinated anomalies → punished  
+
+---
+
+## 🔥 Final One-Line Defense Pitch
+
+**“GigShield uses multi-dimensional truth validation, behavioral AI, and graph-based fraud detection to distinguish genuine income loss from coordinated fraud—without penalizing honest workers.”**
