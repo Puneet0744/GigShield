@@ -248,28 +248,29 @@ We ensure **low false positives**
 ---
 
 ## 🔄 9. End-to-End Decision Flow
+
+```
 [Disruption Detected]
-↓
+        ↓
 [Check Environmental Truth]
-↓
+        ↓
 [Validate Spatial Presence]
-↓
+        ↓
 [Evaluate Economic Impact]
-↓
+        ↓
 [Behavior Analysis]
-↓
+        ↓
 [Peer Comparison]
-↓
+        ↓
 [Fraud Graph Check]
-↓
+        ↓
 [Risk Score Calculation]
-↓
+        ↓
 
 ┌───────────────┬───────────────┬───────────────┐
-│ Approve │ Delay │ Flag Fraud │
+│   Approve     │    Delay      │  Flag Fraud   │
 └───────────────┴───────────────┴───────────────┘
-
----
+```
 
 ## 🧠 Key Differentiator
 
